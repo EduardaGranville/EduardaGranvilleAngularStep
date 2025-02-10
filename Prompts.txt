@@ -1,0 +1,11 @@
+Quero um arquivo json com objeto de vagas de emprego com:
+nome da vaga; Nome da empresa; Cidade(Rio de Janeiro, São Paulo ou João Pessoa); daysAgo(1,2 ou 7);Shift(Manhã,Tarde,Integaal)
+
+Como a função applyFilter() utiliza o método filter para filtrar arrays com critérios opcionais?
+
+Explique a estrutura (condição ? comparação : true) na função applyFilter() e qual é seu efeito na filtragem do array?
+
+
+Como importR O BOOTSTRAP em um projeto angular?
+
+Quais funções me recomenda para deixar um site mais "elegante" e profissional utilizando o bootstrap?

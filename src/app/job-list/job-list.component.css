@@ -1,0 +1,25 @@
+.card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+}
+
+.card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.card-subtitle {
+    font-size: 1rem;
+    color: #6c757d;
+}
+
+.card-text {
+    font-size: 0.9rem;
+    color: #555;
+}
