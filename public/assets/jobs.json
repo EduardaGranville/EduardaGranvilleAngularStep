@@ -1,0 +1,43 @@
+[
+    {
+      "name": "Desenvolvedor Front-end",
+      "company": "TechCorp",
+      "city": "São Paulo",
+      "daysAgo": 1,
+      "shift": "Manhã"
+    },
+    {
+      "name": "Analista de Dados",
+      "company": "DataX",
+      "city": "Rio de Janeiro",
+      "daysAgo": 7,
+      "shift": "Integral"
+    },
+    {
+      "name": "Designer UX/UI",
+      "company": "DesignHub",
+      "city": "João Pessoa",
+      "daysAgo": 2,
+      "shift": "Tarde"
+    },{
+        "name": "Técnico em enfermagem",
+        "company": "RedeDor",
+        "city": "São Paulo",
+        "daysAgo": 2,
+        "shift": "Manhã"
+      },
+      {
+        "name": "Economista",
+        "company": "BTG",
+        "city": "Rio de Janeiro",
+        "daysAgo": 2,
+        "shift": "Integral"
+      },
+      {
+        "name": "Estágio Engenharia elétrica",
+        "company": "Heliosfera",
+        "city": "João Pessoa",
+        "daysAgo": 2,
+        "shift": "Integral"
+      }
+  ]
